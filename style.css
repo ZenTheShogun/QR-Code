@@ -41,3 +41,8 @@ body {
 .text p {
     hsl(220, 15%, 55%)
 }
+
+.attribution {
+    font-size: 10px;
+    padding-top: 5px;
+}
